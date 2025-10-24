@@ -4,3 +4,10 @@ Snake C++, Ncurses
 >Snake
 To jest Snake
 s30299
+<
+#include <iostream>
+#include <ncursesw/curses.h>
+#include <vector>
+#include <string>
+#include <cstdlib>
+#include <algorithm>
